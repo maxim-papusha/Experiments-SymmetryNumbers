@@ -13,6 +13,7 @@ message: >-
   metadata from this file.
 repository-code: >-
   https://github.com/maxim-papusha/Experiments-SymmetryNumbers
+doi: 10.5281/zenodo.21072569
 license: MIT
 
 preferred-citation:
