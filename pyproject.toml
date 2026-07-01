@@ -8,5 +8,5 @@ dependencies = [
     "ipykernel",
     "pandas",
     "rdkit",
-    "stereomolgraph",
+    "stereomolgraph==0.0.22b0",
 ]
