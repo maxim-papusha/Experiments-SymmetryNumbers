@@ -8,6 +8,7 @@ dist/
 # Environments
 .venv/
 .pixi/
+uv.lock
 
 # Jupyter
 .ipynb_checkpoints/
